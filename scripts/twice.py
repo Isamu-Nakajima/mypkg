@@ -5,6 +5,7 @@ BSD 3-Clause License
 Copyright (c) 2021, Isamu Nakajima and Ryuichi Ueda
 All rights reserved.
 """
+
 import rospy
 import random
 import math
