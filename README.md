@@ -17,9 +17,14 @@ cd ..
 catkin_make
 ```
 ##  使用方法
+あらかじめ別ターミナルで
+```
+roscore
+```
+を実行した上で
 ```
 roslaunch mypkg mypkg.launch
 ```
-上記を実行後はプログラムに従ってください。
+を実行してください。以降はプログラムに従ってください。
 ##  ライセンス
 BSD 3-Clause License
